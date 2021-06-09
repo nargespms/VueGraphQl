@@ -1,25 +1,19 @@
 # vue-graphql
 
 ## Project setup
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and hot-reloads for vue development
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### run graphQl server development
 
-### Lints and fixes files
 ```
-npm run lint
+node server
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# vueGraphql
